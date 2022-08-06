@@ -1,0 +1,60 @@
+.App{
+   background-image: linear-gradient(lightblue,pink,lightyellow) ; 
+   height : 100vh;
+}
+.text1{
+    text-shadow: 3px 3px 3px aqua;
+    text-align: center;
+    
+}
+.button1{
+    height: 50px;
+    width: 250px;
+    border-radius: 50px ;
+    background-color: lightblue;
+    position : relative;
+    left:400px;
+    top: 100px;
+    
+}
+.button2{
+    height: 50px;
+    width: 250px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position : relative;
+    left:500px;
+    top: 100px;
+    
+    
+}
+.Functional{
+    margin-left: 30px;
+    text-align: center;
+    height: 300px;
+    width : 500px;
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius:15px;
+    background-color: aqua;
+    position:relative;
+    top:10rem;
+}
+
+
+.first{
+   font-size: 30px;
+   font-weight: bolder;
+
+}
+.class{
+    text-align: center;
+    height:300px;
+    width: 500px;
+    background-color: violet;
+    border:5px solid black;
+    border-radius:15px;
+    position:absolute;
+    bottom:9rem;
+    left: 900px;
+}
